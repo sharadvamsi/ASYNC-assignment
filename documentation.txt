@@ -2,3 +2,6 @@
 2.First method is callbacks where we use callback to make api call and delay the response by 5 sec after clicking the button.
 3.In similar way promises are also implementated but in addition to that added error handling like if promise take more than 5 sec to fulfill then it reject with operation time out.
 4.and finally implement async-await and handled error by try caatch block.
+
+
+GITHUB LINK: https://github.com/sharadvamsi/ASYNC-assignment
